@@ -1,0 +1,19 @@
+.body-table * {
+    border: 1px solid black;
+    font-size: 20px;
+    padding:10px;
+    width: 100px;
+    height: 20px;
+    
+    
+}
+.table-head-tr {
+    text-align:center;
+}
+.table-last-tr {
+    text-align: right;
+}
+.div-table {
+    display: flex;
+    justify-content: center;
+}
