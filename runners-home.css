@@ -1,0 +1,11 @@
+.container {
+    background-color: #5bc0de;
+    height: 100%;
+    width: 99.5%;
+    
+}
+.p-footer {
+    bottom: 0px;
+    position: absolute;
+    font-size:30px;
+}
